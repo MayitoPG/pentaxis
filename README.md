@@ -1,4 +1,4 @@
-## GRBL 4 independant axes mod for Arduino UNO
+## GRBL 4 independant axes mod for Arduino UNO for testing purposes
 
 ### This is a mod  of Grbl v0.9j  Atmega328p 16mhz 115200baud to enable an independant A axis
 * [based on Grbl v0.9j Atmega328p 16mhz 115200baud with generic defaults](http://bit.ly/1I8Ey4S) _(2016-03-17)_
